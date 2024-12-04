@@ -1,8 +1,4 @@
 ## Olá mundoo 👋
-## Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats-delta-ochre-49.vercel.app/api?username=joaovlo&show_icons=true&rank_icon=github&theme=synthwave)
-![Top Langs](https://github-readme-stats-delta-ochre-49.vercel.app/api/top-langs/?username=joaovlo&size_weight=0&count_weight=1&layout=compact&theme=synthwave)
-
 ## Linguagens utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
